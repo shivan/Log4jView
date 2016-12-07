@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/LogHighlighter/LogHighlighter.hidden-tmTheme",
+	"syntax": "Packages/LogHighlighter/LogHighlighter.tmLanguage",
+	"log_file": "LogHighlighter.log",
+	"extensions": [
+		"log",
+		"logfile"
+	]
+}
