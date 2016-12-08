@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Log4jView/Log4jView.hidden-tmTheme",
+	"syntax": "Packages/Log4jView/Log4jView.tmLanguage",
+	"log_file": "Log4jView.log",
+	"extensions": [
+		"log",
+		"logfile"
+	]
+}

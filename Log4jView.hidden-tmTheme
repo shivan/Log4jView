@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Log4jView Theme</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#22282A</string>
+				<key>caret</key>
+				<string>#AEAFAD</string>
+				<key>foreground</key>
+				<string>#F1F2F3</string>
+				<key>invisibles</key>
+				<string>#4B4E55</string>
+				<key>lineHighlight</key>
+				<string>#282A2E</string>
+				<key>selection</key>
+				<string>#4F6164</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView TRACE</string>
+			<key>scope</key>
+			<string>entity.trace.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView TRACE message</string>
+			<key>scope</key>
+			<string>entity.trace.message.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#C0C0C0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView DEBUG</string>
+			<key>scope</key>
+			<string>entity.debug.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FF9900</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView DEBUG message</string>
+			<key>scope</key>
+			<string>entity.debug.message.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#996600</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView INFO</string>
+			<key>scope</key>
+			<string>entity.info.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#00FF00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView INFO message</string>
+			<key>scope</key>
+			<string>entity.info.message.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#339900</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView WARN</string>
+			<key>scope</key>
+			<string>entity.warn.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFFF00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView WARN message</string>
+			<key>scope</key>
+			<string>entity.warn.message.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFCC00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView ERROR</string>
+			<key>scope</key>
+			<string>entity.error.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FF0000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView ERROR message</string>
+			<key>scope</key>
+			<string>entity.error.message.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#CC0000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView FATAL</string>
+			<key>scope</key>
+			<string>entity.fatal.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FF00FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView FATAL message</string>
+			<key>scope</key>
+			<string>entity.fatal.message.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#CC66FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView category</string>
+			<key>scope</key>
+			<string>entity.category.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#C0C0C0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Log4jView control</string>
+			<key>scope</key>
+			<string>control.log4jview</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+
+				<key>foreground</key>
+				<string>#C0C0C0</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>F96223EB-1AAB-4617-92F3-FA4D4F13DB08</string>
+</dict>
+</plist>
