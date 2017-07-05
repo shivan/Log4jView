@@ -84,7 +84,7 @@
 			<key>comment</key>
 			<string>stacktrace jboss</string>
 			<key>match</key>
-			<string>^(\s*)(at)(.*)(\(.*\))$</string>
+			<string>^(\s*)(at )(.*)(\(.*\))$</string>
 			<key>name</key>
 			<string>string.quoted.log4jview</string>
 		</dict>
